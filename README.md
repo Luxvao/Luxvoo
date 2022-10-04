@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luxvoo
 - 👀 I’m interested in C++
-- 🌱 I’m currently learning GUIs (C++ GUIs like QT or GTK) and JavaScript
+- 🌱 I’m currently learning GUI libraries (C++ GUIs like GTK, C# GTK#, I love GTK)
 
 <!---
 Luxvoo/Luxvoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
